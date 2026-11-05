@@ -50,9 +50,32 @@ Selain sistem kendali konveyor, proyek ini dilengkapi dengan sensor inframerah (
 4. Memantau jumlah produksi, stok tersedia, dan barang terjual melalui dashboard.
 5. Membantu meningkatkan konsistensi proses penyimpanan dan pengelolaan persediaan pakaian.
 
+## Komponen yang Digunakan
+
+| No. | Komponen | Fungsi |
+|---|---|---|
+| 1 | ESP32 DevKit V1 | Pusat kendali sistem, menjalankan algoritma PID dan komunikasi dashboard. |
+| 2 | Sensor IR | Menghitung jumlah pakaian yang melewati konveyor. |
+| 3 | Encoder motor | Membaca kecepatan aktual motor sebagai umpan balik sistem kendali. |
+| 4 | Driver motor L298N | Mengatur daya dan kecepatan motor melalui sinyal PWM. |
+| 5 | Motor DC dan gearbox | Menggerakkan konveyor mini. |
+| 6 | LED dan resistor | Menunjukkan rak tujuan penyimpanan pakaian. |
+| 7 | Sensor ultrasonik (opsional) | Mendukung deteksi tambahan pada sistem. |
+| 8 | Breadboard, kabel jumper, dan miniatur rak | Mendukung perakitan dan penyimpanan pakaian. |
+
+## Alur Kerja Sistem
+
+1. Pakaian yang telah selesai diproduksi diletakkan pada konveyor.
+2. Konveyor bergerak dengan kecepatan yang dikendalikan menggunakan PID.
+3. Sensor IR menghitung jumlah pakaian yang melewati konveyor.
+4. ESP32 memproses data sensor dan menentukan rak tujuan penyimpanan.
+5. LED indikator menyala untuk menunjukkan rak yang dipilih.
+6. Petugas menyimpan pakaian dan melakukan konfirmasi melalui website.
+7. Dashboard memperbarui informasi produksi dan persediaan.
+8. Ketika barang terjual, jumlah stok tersedia berkurang secara otomatis.
+
 ## Repository GitHub
 
 Repository proyek ini dapat diakses melalui:
 
 **Link Repository:** https://github.com/fikririzqinfaizun/TugasBesar-InternetOfThings-Kelompok5.git
-
