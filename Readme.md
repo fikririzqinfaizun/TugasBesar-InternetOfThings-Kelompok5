@@ -54,6 +54,5 @@ Selain sistem kendali konveyor, proyek ini dilengkapi dengan sensor inframerah (
 
 Repository proyek ini dapat diakses melalui:
 
-**Link Repository:** [Masukkan URL repository GitHub kelompok]
+**Link Repository:** https://github.com/fikririzqinfaizun/TugasBesar-InternetOfThings-Kelompok5.git
 
-Repository harus bersifat **public** dan seluruh anggota kelompok harus sudah ditambahkan sebagai collaborator agar proyek dapat diakses dan diperiksa.
