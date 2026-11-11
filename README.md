@@ -5,9 +5,6 @@
 ## **Smart Fashion Inventory**
 ### **Konveyor Mini dengan Kontrol PID, Indikator Rak LED, dan Web Dashboard Laravel**
 
-<div align="center">
-<img width="224" height="225" alt="unsoed2" src="https://github.com/user-attachments/assets/38f78619-5246-496c-a2b5-c667f1d38bf1" />
-
 
 ![ESP32](https://img.shields.io/badge/ESP32-DevKit%20V1-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-10-red)
