@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo-unsoed.png" alt="Logo Universitas Jenderal Soedirman" width="160"/>
+<img src="unsoed2.png" alt="Logo Universitas Jenderal Soedirman" width="160"/>
 
 # LAPORAN & DOKUMENTASI PROYEK TUGAS BESAR IOT
 ## **Smart Fashion Inventory**
