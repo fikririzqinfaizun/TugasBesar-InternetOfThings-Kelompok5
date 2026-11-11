@@ -1,8 +1,9 @@
-# LAPORAN & DOKUMENTASI PROYEK TUGAS BESAR IOT
+<div align="center">
+<img width="224" height="225" alt="unsoed2" src="https://github.com/user-attachments/assets/38f78619-5246-496c-a2b5-c667f1d38bf1" />
+
+  # LAPORAN & DOKUMENTASI PROYEK TUGAS BESAR IOT
 ## **Smart Fashion Inventory**
 ### **Konveyor Mini dengan Kontrol PID, Indikator Rak LED, dan Web Dashboard Laravel**
-
-*"Produksi Terkontrol, Stok Terpantau, Bisnis Lebih Efisien"*
 
 <div align="center">
 <img width="224" height="225" alt="unsoed2" src="https://github.com/user-attachments/assets/38f78619-5246-496c-a2b5-c667f1d38bf1" />
