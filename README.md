@@ -1,3 +1,4 @@
+<img width="224" height="225" alt="unsoed2" src="https://github.com/user-attachments/assets/38f78619-5246-496c-a2b5-c667f1d38bf1" />
 <div align="center">
 
 <img src="unsoed2.png" alt="Logo Universitas Jenderal Soedirman" width="160"/>
