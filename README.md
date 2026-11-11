@@ -224,7 +224,7 @@ Dashboard menampilkan:
 
 <div align="center">
 
-**Disusun untuk Memenuhi Tugas Besar Mata Kuliah Internet of Things (IoT)**  
+**Disusun untuk Memenuhi Tugas Besar Mata Kuliah & project praktikum (IoT)**  
 *Dosen Pengampu / Penguji: Pak Irham, Pak Agus, Pak Emha*
 
 </div>
