@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="148" height="148" alt="unsoeddd" src="https://github.com/user-attachments/assets/7e4fb7c1-f5c5-4b8c-a280-f26d5404477d" />
+<img width="224" height="225" alt="logo-unsoed-transparan" src="https://github.com/user-attachments/assets/63a5e547-229e-4196-90e1-c499f4c953ef" />
   
   # LAPORAN & DOKUMENTASI PROYEK TUGAS BESAR IOT
 ## **Smart Fashion Inventory**
