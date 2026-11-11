@@ -1,5 +1,6 @@
+
 <div align="center">
-<img src="unsoedd.png" alt="Logo Universitas Jenderal Soedirman" width="160"/>
+<img width="148" height="148" alt="unsoeddd" src="https://github.com/user-attachments/assets/7e4fb7c1-f5c5-4b8c-a280-f26d5404477d" />
   
   # LAPORAN & DOKUMENTASI PROYEK TUGAS BESAR IOT
 ## **Smart Fashion Inventory**
